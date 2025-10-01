@@ -25,7 +25,7 @@ I'm a motivated Full-stack Web Developer and Computer Science BSc graduate from 
 [![](https://visitcount.itsvg.in/api?id=MadickAngeCesar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/angecesarmadick) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MadickDevStudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/angecesarmadick) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
