@@ -42,7 +42,7 @@ I enjoy designing scalable systems, automating workflows, and continuously impro
 - AWS (basic)
 - Kubernetes (basic)
 - Terraform (basic)
----
+
 
 ## 📌 Featured Projects
 
@@ -51,14 +51,10 @@ AI-powered cross-platform app for lifestyle management and optimization.
 **Tech:** Next.js, Supabase, Prisma, Clerk, PWA, GitHub Actions  
 🔗 https://sla-0.vercel.app
 
----
-
 ### 🔹 Smart IT Support
 Automated IT troubleshooting and knowledge-assistance platform.  
 **Tech:** Next.js, Firebase, n8n, Google APIs  
 🔗 https://smart-it-support-sand.vercel.app
-
----
 
 ### 🔹 HabitaCam (Ongoing)
 Property and tenant management platform with payments and role-based access.  
