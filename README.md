@@ -1,5 +1,74 @@
-# 💫 About Me:
-I'm a Full-stack Software Developer and Computer Science BSc graduate from The ICT University with skills in both JavaScript and Python. <br>I craft modern web, desktop, and mobile applications using a diverse tech stack:<br><br>- Frontend: I design dynamic, responsive interfaces with React, Next.js, and Tailwind CSS.<br>- Backend: I build robust APIs and server-side solutions with Express.js and Django.<br>- Desktop & Mobile: I develop cross-platform desktop apps with Electron.js and PyQt, as well as mobile apps using React Native and Capacitor.js.<br><br>Each project has sharpened my problem-solving skills. I'm eager to transform ideas into successful solutions. Let's connect and discuss how I can help you achieve your goals.
+# 👋 Hi, I'm Madick Ange César
+
+🎓 Junior Full-Stack Software Engineer  
+🌍 Yaoundé Cameroon | Open to Remote Opportunities (Worldwide)  
+🗣️ English & French  
+
+---
+
+## 🚀 About Me
+
+I am a **Junior Full-Stack Software Engineer** with hands-on experience building, deploying, and maintaining **production-ready web and cross-platform applications**.
+
+I work mainly with **Next.js, MERN stack, Electron.js, React Native**, and I have a strong interest in **DevOps, Cloud, and Automation**.
+
+I enjoy designing scalable systems, automating workflows, and continuously improving software reliability through **CI/CD pipelines, Docker, and cloud deployments**.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+- HTML, CSS, Tailwind CSS
+- JavaScript / TypeScript
+- React, Next.js
+- WordPress
+
+### 📱 Mobile & Desktop
+- React Native, Capacitor
+- Progressive Web Apps (PWA)
+- Electron, PyQt
+
+### 🛠 Backend & Databases
+- Node.js, Express.js
+- MongoDB, PostgreSQL
+- Firebase, Supabase
+- Prisma ORM
+- REST APIs
+
+### ⚙️ DevOps & Cloud
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Docker
+- AWS (basic)
+- Kubernetes (basic)
+- Terraform (basic)
+- Monitoring & Automation (n8n)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Smart Lifestyle Assistant
+AI-powered cross-platform app for lifestyle management and optimization.  
+**Tech:** Next.js, Supabase, Prisma, Clerk, PWA, GitHub Actions  
+🔗 https://sla-0.vercel.app
+
+---
+
+### 🔹 Smart IT Support
+Automated IT troubleshooting and knowledge-assistance platform.  
+**Tech:** Next.js, Firebase, n8n, Google APIs  
+🔗 https://smart-it-support-sand.vercel.app
+
+---
+
+### 🔹 HabitaCam (Ongoing)
+Property and tenant management platform with payments and role-based access.  
+**Tech:** Next.js, Express, MongoDB, Google Maps API  
+🔗 [https://smart-it-support-sand.vercel.app](https://habitacam.vercel.app/)
+
+---
 
 
 ## 🌐 Socials:
