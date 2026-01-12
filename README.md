@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madick Ange César
 
-🎓 Junior Full-Stack Software Engineer  
+🎓 Full-Stack Software Engineer  
 🌍 Yaoundé Cameroon | Open to Remote Opportunities (Worldwide)  
 🗣️ English & French  
 
@@ -46,10 +46,10 @@ I enjoy designing scalable systems, automating workflows, and continuously impro
 
 ## 📌 Featured Projects
 
-### 🔹 Smart Lifestyle Assistant
+### 🔹 Nurtaura
 AI-powered cross-platform app for lifestyle management and optimization.  
 **Tech:** Next.js, Supabase, Prisma, Clerk, PWA, GitHub Actions  
-🔗 https://sla-0.vercel.app
+🔗 https://nurtaura.vercel.app
 
 ### 🔹 Smart IT Support
 Automated IT troubleshooting and knowledge-assistance platform.  
