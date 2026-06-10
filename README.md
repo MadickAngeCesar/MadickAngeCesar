@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Junior Full-Stack Software Engineer** with hands-on experience building, deploying, and maintaining **production-ready web and cross-platform applications**.
+I am a **Full-Stack Software Engineer** with hands-on experience building, deploying, and maintaining **production-ready web and cross-platform applications**.
 
 I work mainly with **Next.js, MERN stack, Electron.js, React Native**, and I have a strong interest in **DevOps, Cloud, and Automation**.
 
